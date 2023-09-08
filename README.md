@@ -8,7 +8,7 @@ Welcome to my Codsoft internship project repository. This repository contains th
 The portfolio task showcases my web development skills and includes information about my education, projects, and skills.
 
 ### How to Access
-You can access my portfolio by following this link: [Portfolio]()
+You can access my portfolio by following this link: [Portfolio](https://sandeep0306.github.io/My_portfolio/)
 
 ## Landing Page
 
